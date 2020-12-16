@@ -1,0 +1,3 @@
+# DancingDitto
+this is a dancing ditto prank nsfw site-web 
+just git-clone into your nginx or apache directory and have fun ^^
